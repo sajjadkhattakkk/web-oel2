@@ -1,0 +1,14 @@
+.App {
+    text-align: center;
+    background-color: #282c34;
+    justify-content: center;
+    color: white;
+}
+.addCarDiv, .car{
+    padding: 5px;
+    margin: 5px;
+    border-style: solid;
+    border-width: 1px;
+    border-radius: 1px;
+    border-color: white;
+}
